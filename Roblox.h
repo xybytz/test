@@ -72,7 +72,7 @@ namespace offsets
 	const uintptr_t jobStart = 0x1D0;
 	const uintptr_t jobEnd = 0x1D8;
 	const uintptr_t jobName = 0x90;
-	const uintptr_t getGlobalOffset = 0x128;
+	const uintptr_t getGlobalOffset = 0x130;
 	const uintptr_t decryptStateOffset = 0x88;
 }
 
