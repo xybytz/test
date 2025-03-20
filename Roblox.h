@@ -78,12 +78,12 @@ namespace offsets
 
 namespace internalOffsets
 {
-	const uintptr_t Print = REBASE(0x159DAA0);
-	const uintptr_t TaskDefer = REBASE(0x1069B60);
-	const uintptr_t LuaVMLoad = REBASE(0xC4BA90);
-	const uintptr_t GetGlobalState = REBASE(0xE8B4D0);
-	const uintptr_t DecryptLuaState = REBASE(0xC48A20);
-	const uintptr_t RawScheduler = REBASE(0x61E5E38);
+	const uintptr_t Print = REBASE(0x15C9CD0);
+	const uintptr_t TaskDefer = REBASE(0x1081760);
+	const uintptr_t LuaVMLoad = REBASE(0xC5CA50);
+	const uintptr_t GetGlobalState = REBASE(0xEA35D0);
+	const uintptr_t DecryptLuaState = REBASE(0xC59A30);
+	const uintptr_t RawScheduler = REBASE(0x627D908);
 }
 
 namespace functions
